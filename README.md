@@ -6,4 +6,4 @@ Permissions:
 
 No Policy Boundary
 # Step 2: Creating s3 Bucket
-![Uploading image.png…]()
+![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/69178f6f-2d84-4ccf-a860-1feef1a50825)
