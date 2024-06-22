@@ -12,5 +12,5 @@ No Policy Boundary
 
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/c9e781e6-4b04-4a22-8ad1-453205117c0b)
 
-# Step 3: A Complex Inner Join Schema
-![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/b91f0a9e-70ce-43a7-9747-d825b367825f)
+# Step 3: A Complex Inner Join Schema in AWS Glue
+![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/b4a84e3c-a1e0-487d-9dc0-5a23513140e4)
