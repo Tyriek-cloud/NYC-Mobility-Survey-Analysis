@@ -13,6 +13,6 @@ No Policy Boundary
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/c9e781e6-4b04-4a22-8ad1-453205117c0b)
 
 # Step 3: A Complex Inner Join Schema in AWS Glue
-![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/529fcc25-6995-4ac7-8783-01411b16b3b3)
+![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/775da1aa-c302-4ddc-a45f-550684f4505a)
 
 Everything is either joined on the hh_id or the person_id
