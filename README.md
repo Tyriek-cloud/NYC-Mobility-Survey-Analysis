@@ -25,4 +25,6 @@ Everything is either joined on the hh_id or the person_id
 # Step 5: Create a Database to be Crawled
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/a0947851-ec4f-488b-9167-4fec43030b49)
 
+# Step 6: Analyze and Visualize the Data with Quicksight
+
 
