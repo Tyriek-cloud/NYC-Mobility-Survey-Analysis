@@ -2,7 +2,7 @@
 # Step 1: Identity Access Management (IAM)
 I created a user (myself) and attached the permission policies directly.
 Permissions:
-![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/9071ef6a-e1c8-45ac-a19d-39de53cf5ac4)
+![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/b1773fe0-bd1c-4c77-9e32-9ad54e49773b)
 
 No Policy Boundary
 # Step 2: Creating s3 Bucket
