@@ -22,4 +22,7 @@ Everything is either joined on the hh_id or the person_id
 
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/8a2c23c3-ca11-4335-80cd-175278f2223b)
 
+# Step 5: Create a Database to be Crawled
+![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/a0947851-ec4f-488b-9167-4fec43030b49)
+
 
