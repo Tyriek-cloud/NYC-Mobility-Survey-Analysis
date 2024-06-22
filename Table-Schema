@@ -1,0 +1,1298 @@
+[
+  {
+    "Name": "hh_id",
+    "Type": "string"
+  },
+  {
+    "Name": "vehicle_id",
+    "Type": "string"
+  },
+  {
+    "Name": "vehicle_num",
+    "Type": "string"
+  },
+  {
+    "Name": "year",
+    "Type": "string"
+  },
+  {
+    "Name": "fuel_type",
+    "Type": "string"
+  },
+  {
+    "Name": "hh_weight",
+    "Type": "string"
+  },
+  {
+    "Name": "num_trips",
+    "Type": "string"
+  },
+  {
+    "Name": "num_days_complete",
+    "Type": "string"
+  },
+  {
+    "Name": "person_id",
+    "Type": "string"
+  },
+  {
+    "Name": "person_num",
+    "Type": "string"
+  },
+  {
+    "Name": "is_participant",
+    "Type": "string"
+  },
+  {
+    "Name": "phone_type",
+    "Type": "string"
+  },
+  {
+    "Name": "relationship",
+    "Type": "string"
+  },
+  {
+    "Name": "age",
+    "Type": "string"
+  },
+  {
+    "Name": "r_age",
+    "Type": "string"
+  },
+  {
+    "Name": "race_1",
+    "Type": "string"
+  },
+  {
+    "Name": "race_2",
+    "Type": "string"
+  },
+  {
+    "Name": "race_3",
+    "Type": "string"
+  },
+  {
+    "Name": "race_4",
+    "Type": "string"
+  },
+  {
+    "Name": "race_5",
+    "Type": "string"
+  },
+  {
+    "Name": "race_6",
+    "Type": "string"
+  },
+  {
+    "Name": "race_997",
+    "Type": "string"
+  },
+  {
+    "Name": "race_999",
+    "Type": "string"
+  },
+  {
+    "Name": "r_race",
+    "Type": "string"
+  },
+  {
+    "Name": "ethnicity_1",
+    "Type": "string"
+  },
+  {
+    "Name": "ethnicity_2",
+    "Type": "string"
+  },
+  {
+    "Name": "ethnicity_3",
+    "Type": "string"
+  },
+  {
+    "Name": "ethnicity_4",
+    "Type": "string"
+  },
+  {
+    "Name": "ethnicity_5",
+    "Type": "string"
+  },
+  {
+    "Name": "ethnicity_997",
+    "Type": "string"
+  },
+  {
+    "Name": "ethnicity_999",
+    "Type": "string"
+  },
+  {
+    "Name": "r_ethnicity",
+    "Type": "string"
+  },
+  {
+    "Name": "gender",
+    "Type": "string"
+  },
+  {
+    "Name": "can_drive",
+    "Type": "string"
+  },
+  {
+    "Name": "disability",
+    "Type": "string"
+  },
+  {
+    "Name": "disability_follow_1",
+    "Type": "string"
+  },
+  {
+    "Name": "disability_follow_2",
+    "Type": "string"
+  },
+  {
+    "Name": "disability_follow_3",
+    "Type": "string"
+  },
+  {
+    "Name": "disability_follow_4",
+    "Type": "string"
+  },
+  {
+    "Name": "disability_follow_5",
+    "Type": "string"
+  },
+  {
+    "Name": "disability_follow_6",
+    "Type": "string"
+  },
+  {
+    "Name": "disability_follow_996",
+    "Type": "string"
+  },
+  {
+    "Name": "disability_follow_999",
+    "Type": "string"
+  },
+  {
+    "Name": "education",
+    "Type": "string"
+  },
+  {
+    "Name": "employment",
+    "Type": "string"
+  },
+  {
+    "Name": "worker",
+    "Type": "string"
+  },
+  {
+    "Name": "num_jobs",
+    "Type": "string"
+  },
+  {
+    "Name": "job_type",
+    "Type": "string"
+  },
+  {
+    "Name": "industry",
+    "Type": "string"
+  },
+  {
+    "Name": "work_in_region",
+    "Type": "string"
+  },
+  {
+    "Name": "work_county",
+    "Type": "string"
+  },
+  {
+    "Name": "work_cms_zone",
+    "Type": "string"
+  },
+  {
+    "Name": "wfh_policy",
+    "Type": "string"
+  },
+  {
+    "Name": "commute_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "telework_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "r_telework_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "work_mode",
+    "Type": "string"
+  },
+  {
+    "Name": "r_work_mode",
+    "Type": "string"
+  },
+  {
+    "Name": "work_mode_own",
+    "Type": "string"
+  },
+  {
+    "Name": "work_mode_auto",
+    "Type": "string"
+  },
+  {
+    "Name": "work_park_loc",
+    "Type": "string"
+  },
+  {
+    "Name": "work_park_pay",
+    "Type": "string"
+  },
+  {
+    "Name": "work_park_cost",
+    "Type": "string"
+  },
+  {
+    "Name": "work_park_amount",
+    "Type": "string"
+  },
+  {
+    "Name": "work_mode_taxi",
+    "Type": "string"
+  },
+  {
+    "Name": "work_mode_bus",
+    "Type": "string"
+  },
+  {
+    "Name": "work_mode_rail",
+    "Type": "string"
+  },
+  {
+    "Name": "work_mode_ferry",
+    "Type": "string"
+  },
+  {
+    "Name": "work_mode_bike",
+    "Type": "string"
+  },
+  {
+    "Name": "work_bike_park",
+    "Type": "string"
+  },
+  {
+    "Name": "work_mode_scooter",
+    "Type": "string"
+  },
+  {
+    "Name": "work_scooter_park",
+    "Type": "string"
+  },
+  {
+    "Name": "student",
+    "Type": "string"
+  },
+  {
+    "Name": "r_student",
+    "Type": "string"
+  },
+  {
+    "Name": "school_type",
+    "Type": "string"
+  },
+  {
+    "Name": "r_school_type",
+    "Type": "string"
+  },
+  {
+    "Name": "school_in_region",
+    "Type": "string"
+  },
+  {
+    "Name": "school_county",
+    "Type": "string"
+  },
+  {
+    "Name": "school_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "remote_class_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "school_mode",
+    "Type": "string"
+  },
+  {
+    "Name": "school_mode_own",
+    "Type": "string"
+  },
+  {
+    "Name": "school_mode_auto",
+    "Type": "string"
+  },
+  {
+    "Name": "school_park_loc",
+    "Type": "string"
+  },
+  {
+    "Name": "school_park_cost",
+    "Type": "string"
+  },
+  {
+    "Name": "school_park_amount",
+    "Type": "string"
+  },
+  {
+    "Name": "school_mode_taxi",
+    "Type": "string"
+  },
+  {
+    "Name": "school_mode_bus",
+    "Type": "string"
+  },
+  {
+    "Name": "school_mode_rail",
+    "Type": "string"
+  },
+  {
+    "Name": "school_mode_ferry",
+    "Type": "string"
+  },
+  {
+    "Name": "school_mode_bike",
+    "Type": "string"
+  },
+  {
+    "Name": "school_bike_park",
+    "Type": "string"
+  },
+  {
+    "Name": "school_mode_scooter",
+    "Type": "string"
+  },
+  {
+    "Name": "school_scooter_park",
+    "Type": "string"
+  },
+  {
+    "Name": "home_park_1",
+    "Type": "string"
+  },
+  {
+    "Name": "home_park_2",
+    "Type": "string"
+  },
+  {
+    "Name": "home_park_3",
+    "Type": "string"
+  },
+  {
+    "Name": "home_park_pay",
+    "Type": "string"
+  },
+  {
+    "Name": "home_park_cost",
+    "Type": "string"
+  },
+  {
+    "Name": "home_park_amount",
+    "Type": "string"
+  },
+  {
+    "Name": "second_home",
+    "Type": "string"
+  },
+  {
+    "Name": "second_home_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "second_home_in_region",
+    "Type": "string"
+  },
+  {
+    "Name": "second_home_county",
+    "Type": "string"
+  },
+  {
+    "Name": "share_1",
+    "Type": "string"
+  },
+  {
+    "Name": "share_2",
+    "Type": "string"
+  },
+  {
+    "Name": "share_3",
+    "Type": "string"
+  },
+  {
+    "Name": "share_4",
+    "Type": "string"
+  },
+  {
+    "Name": "share_5",
+    "Type": "string"
+  },
+  {
+    "Name": "share_6",
+    "Type": "string"
+  },
+  {
+    "Name": "share_996",
+    "Type": "string"
+  },
+  {
+    "Name": "tnc_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "tnc_purp",
+    "Type": "string"
+  },
+  {
+    "Name": "carshare_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "vehicle",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_purp_1",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_purp_2",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_purp_3",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_purp_4",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_purp_5",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_purp_6",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_purp_997",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_nyc_1",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_nyc_2",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_nyc_3",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_nyc_4",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_nyc_5",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_nyc_6",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_nyc_7",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_nyc_9",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_nyc_997",
+    "Type": "string"
+  },
+  {
+    "Name": "no_freq_bike_nyc_1",
+    "Type": "string"
+  },
+  {
+    "Name": "no_freq_bike_nyc_2",
+    "Type": "string"
+  },
+  {
+    "Name": "no_freq_bike_nyc_3",
+    "Type": "string"
+  },
+  {
+    "Name": "no_freq_bike_nyc_4",
+    "Type": "string"
+  },
+  {
+    "Name": "no_freq_bike_nyc_5",
+    "Type": "string"
+  },
+  {
+    "Name": "no_freq_bike_nyc_6",
+    "Type": "string"
+  },
+  {
+    "Name": "no_freq_bike_nyc_997",
+    "Type": "string"
+  },
+  {
+    "Name": "no_freq_bike_nyc_other",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_stolen",
+    "Type": "string"
+  },
+  {
+    "Name": "citi_bike_freq",
+    "Type": "string"
+  },
+  {
+    "Name": "citi_bike_type",
+    "Type": "string"
+  },
+  {
+    "Name": "citi_bike_pay",
+    "Type": "string"
+  },
+  {
+    "Name": "citi_bike_alt_mode",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_share_1",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_share_2",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_share_3",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_share_4",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_share_5",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_share_6",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_share_7",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_share_8",
+    "Type": "string"
+  },
+  {
+    "Name": "no_bike_share_997",
+    "Type": "string"
+  },
+  {
+    "Name": "micromobility_devices_204",
+    "Type": "string"
+  },
+  {
+    "Name": "micromobility_devices_83",
+    "Type": "string"
+  },
+  {
+    "Name": "micromobility_devices_205",
+    "Type": "string"
+  },
+  {
+    "Name": "micromobility_devices_73",
+    "Type": "string"
+  },
+  {
+    "Name": "micromobility_devices_206",
+    "Type": "string"
+  },
+  {
+    "Name": "micromobility_devices_207",
+    "Type": "string"
+  },
+  {
+    "Name": "micromobility_devices_996",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_accompany",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_mode",
+    "Type": "string"
+  },
+  {
+    "Name": "r_kid_mode",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_mode_own",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_mode_auto",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_mode_taxi",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_mode_bus",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_mode_rail",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_mode_ferry",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_access",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_egress",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_mode_bike",
+    "Type": "string"
+  },
+  {
+    "Name": "kid_mode_scooter",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_1",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_2",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_3",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_4",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_5",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_6",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_7",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_8",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_9",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_10",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_996",
+    "Type": "string"
+  },
+  {
+    "Name": "harassment_change_997",
+    "Type": "string"
+  },
+  {
+    "Name": "person_weight",
+    "Type": "string"
+  },
+  {
+    "Name": "hh_cms_zone_gp",
+    "Type": "string"
+  },
+  {
+    "Name": "participation_group",
+    "Type": "string"
+  },
+  {
+    "Name": "signup_platform",
+    "Type": "string"
+  },
+  {
+    "Name": "diary_platform",
+    "Type": "string"
+  },
+  {
+    "Name": "num_days_complete_weekday",
+    "Type": "string"
+  },
+  {
+    "Name": "num_days_complete_weekend",
+    "Type": "string"
+  },
+  {
+    "Name": "num_complete_mon",
+    "Type": "string"
+  },
+  {
+    "Name": "num_complete_tue",
+    "Type": "string"
+  },
+  {
+    "Name": "num_complete_wed",
+    "Type": "string"
+  },
+  {
+    "Name": "num_complete_thu",
+    "Type": "string"
+  },
+  {
+    "Name": "num_complete_fri",
+    "Type": "string"
+  },
+  {
+    "Name": "num_complete_sat",
+    "Type": "string"
+  },
+  {
+    "Name": "num_complete_sun",
+    "Type": "string"
+  },
+  {
+    "Name": "num_people",
+    "Type": "string"
+  },
+  {
+    "Name": "r_num_people",
+    "Type": "string"
+  },
+  {
+    "Name": "num_adults",
+    "Type": "string"
+  },
+  {
+    "Name": "num_kids",
+    "Type": "string"
+  },
+  {
+    "Name": "num_students",
+    "Type": "string"
+  },
+  {
+    "Name": "num_workers",
+    "Type": "string"
+  },
+  {
+    "Name": "num_vehicles",
+    "Type": "string"
+  },
+  {
+    "Name": "r_num_vehicles",
+    "Type": "string"
+  },
+  {
+    "Name": "income_broad",
+    "Type": "string"
+  },
+  {
+    "Name": "primary_language",
+    "Type": "string"
+  },
+  {
+    "Name": "residence_type",
+    "Type": "string"
+  },
+  {
+    "Name": "residence_rent_own",
+    "Type": "string"
+  },
+  {
+    "Name": "home_county",
+    "Type": "string"
+  },
+  {
+    "Name": "vehicle_change",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_veh_1",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_veh_2",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_veh_3",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_veh_4",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_veh_5",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_veh_6",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_veh_7",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_veh_8",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_veh_997",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_veh_1",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_veh_2",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_veh_3",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_veh_4",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_veh_5",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_veh_6",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_veh_7",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_veh_8",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_veh_997",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_typical_charge_1",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_typical_charge_2",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_typical_charge_3",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_typical_charge_4",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_typical_charge_5",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_typical_charge_6",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_typical_charge_7",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_typical_charge_997",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_purchase",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_purchase_barriers_1",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_purchase_barriers_2",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_purchase_barriers_3",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_purchase_barriers_4",
+    "Type": "string"
+  },
+  {
+    "Name": "ev_purchase_barriers_5",
+    "Type": "string"
+  },
+  {
+    "Name": "num_bicycles",
+    "Type": "string"
+  },
+  {
+    "Name": "bicycle_type_1",
+    "Type": "string"
+  },
+  {
+    "Name": "bicycle_type_2",
+    "Type": "string"
+  },
+  {
+    "Name": "bicycle_type_997",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_change",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_bike_1",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_bike_2",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_bike_3",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_bike_4",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_bike_5",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_bike_6",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_bike_7",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_bike_8",
+    "Type": "string"
+  },
+  {
+    "Name": "reduced_bike_997",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_1",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_2",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_3",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_4",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_5",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_6",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_7",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_8",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_9",
+    "Type": "string"
+  },
+  {
+    "Name": "increased_bike_997",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_store_1",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_store_2",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_store_3",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_store_4",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_store_5",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_store_6",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_store_8",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_store_9",
+    "Type": "string"
+  },
+  {
+    "Name": "bike_store_997",
+    "Type": "string"
+  },
+  {
+    "Name": "num_scooters",
+    "Type": "string"
+  },
+  {
+    "Name": "scooter_typical_charge_1",
+    "Type": "string"
+  },
+  {
+    "Name": "scooter_typical_charge_2",
+    "Type": "string"
+  },
+  {
+    "Name": "scooter_typical_charge_4",
+    "Type": "string"
+  },
+  {
+    "Name": "scooter_typical_charge_5",
+    "Type": "string"
+  },
+  {
+    "Name": "scooter_typical_charge_6",
+    "Type": "string"
+  },
+  {
+    "Name": "scooter_typical_charge_7",
+    "Type": "string"
+  },
+  {
+    "Name": "scooter_typical_charge_997",
+    "Type": "string"
+  },
+  {
+    "Name": "packages",
+    "Type": "string"
+  },
+  {
+    "Name": "day_id",
+    "Type": "string"
+  },
+  {
+    "Name": "travel_dow",
+    "Type": "string"
+  },
+  {
+    "Name": "day_num",
+    "Type": "string"
+  },
+  {
+    "Name": "is_complete",
+    "Type": "string"
+  },
+  {
+    "Name": "travel_date",
+    "Type": "string"
+  },
+  {
+    "Name": "summary_complete",
+    "Type": "string"
+  },
+  {
+    "Name": "num_complete_trip_surveys",
+    "Type": "string"
+  },
+  {
+    "Name": "begin_day",
+    "Type": "string"
+  },
+  {
+    "Name": "end_day",
+    "Type": "string"
+  },
+  {
+    "Name": "telecommute_time",
+    "Type": "string"
+  },
+  {
+    "Name": "delivery_2",
+    "Type": "string"
+  },
+  {
+    "Name": "delivery_3",
+    "Type": "string"
+  },
+  {
+    "Name": "delivery_4",
+    "Type": "string"
+  },
+  {
+    "Name": "delivery_5",
+    "Type": "string"
+  },
+  {
+    "Name": "delivery_6",
+    "Type": "string"
+  },
+  {
+    "Name": "delivery_7",
+    "Type": "string"
+  },
+  {
+    "Name": "delivery_8",
+    "Type": "string"
+  },
+  {
+    "Name": "delivery_9",
+    "Type": "string"
+  },
+  {
+    "Name": "delivery_996",
+    "Type": "string"
+  },
+  {
+    "Name": "shop_online",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_1",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_2",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_3",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_4",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_5",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_6",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_7",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_8",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_9",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_11",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_12",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_13",
+    "Type": "string"
+  },
+  {
+    "Name": "no_travel_99",
+    "Type": "string"
+  },
+  {
+    "Name": "wkday_weight",
+    "Type": "string"
+  },
+  {
+    "Name": "svnday_weight",
+    "Type": "string"
+  }
+]
