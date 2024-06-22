@@ -16,3 +16,10 @@ No Policy Boundary
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/775da1aa-c302-4ddc-a45f-550684f4505a)
 
 Everything is either joined on the hh_id or the person_id
+
+# Step 4: Run the Glue Job
+![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/38023dde-5f8e-418b-9063-bb3461ac99c0)
+
+![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/8a2c23c3-ca11-4335-80cd-175278f2223b)
+
+
