@@ -11,3 +11,6 @@ No Policy Boundary
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/e34b5fbc-d465-4449-903e-8e535bb9c25d)
 
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/c9e781e6-4b04-4a22-8ad1-453205117c0b)
+
+# Step 3: A Complex Inner Join Schema
+![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/b91f0a9e-70ce-43a7-9747-d825b367825f)
