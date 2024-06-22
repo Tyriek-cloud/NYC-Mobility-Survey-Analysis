@@ -48,4 +48,16 @@ Household_node1719078285940DF = Household_node1719078285940.toDF()
 Person_node1719078286883DF = Person_node1719078286883.toDF()
 Join_Household_Person_node1719078578757 = DynamicFrame.fromDF(Household_node1719078285940DF.join(Person_node1719078286883DF, (Household_node1719078285940DF['hh_id'] == Person_node1719078286883DF['hh_id']), "outer"), glueContext, "Join_Household_Person_node1719078578757")
 
+# Script generated for node Vehicle_Person_Target
+Vehicle_Person_Target_node1719085955496 = glueContext.write_dynamic_frame.from_options(frame=Join_Vehicle_Person_node1719078697666, connection_type="s3", format="glueparquet", connection_options={"path": "s3://nyc-mobility-survey-analysis/datawarehouse/", "partitionKeys": []}, format_options={"compression": "snappy"}, transformation_ctx="Vehicle_Person_Target_node1719085955496")
+
+# Script generated for node Person_Day_Target
+Person_Day_Target_node1719086022163 = glueContext.write_dynamic_frame.from_options(frame=Join_Person_Day_node1719078514550, connection_type="s3", format="glueparquet", connection_options={"path": "s3://nyc-mobility-survey-analysis/datawarehouse/", "partitionKeys": []}, format_options={"compression": "snappy"}, transformation_ctx="Person_Day_Target_node1719086022163")
+
+# Script generated for node Trip_Vehicle_Target
+Trip_Vehicle_Target_node1719085852754 = glueContext.write_dynamic_frame.from_options(frame=Join_Trip_Vehicle_node1719078854554, connection_type="s3", format="glueparquet", connection_options={"path": "s3://nyc-mobility-survey-analysis/datawarehouse/", "partitionKeys": []}, format_options={"compression": "uncompressed"}, transformation_ctx="Trip_Vehicle_Target_node1719085852754")
+
+# Script generated for node Household_Person_Target
+Household_Person_Target_node1719086017595 = glueContext.write_dynamic_frame.from_options(frame=Join_Household_Person_node1719078578757, connection_type="s3", format="glueparquet", connection_options={"path": "s3://nyc-mobility-survey-analysis/datawarehouse/", "partitionKeys": []}, format_options={"compression": "snappy"}, transformation_ctx="Household_Person_Target_node1719086017595")
+
 job.commit()
