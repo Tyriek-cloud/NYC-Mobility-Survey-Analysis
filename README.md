@@ -1,4 +1,4 @@
-# NYC-Mobility-Survey-Analysis
+# NYC Mobility Survey Analysis
 This was an end-to-end data engineering project that was designed to derive insights from the New York City Department of Transportation's 2022 Citywide Mobility Survey. Five NYC DOT datasets were extracted to an s3 bucket, transformed and loaded into a database, and loaded into AWS Quicksight for analysis.
 
 # Step 1: Identity Access Management (IAM)
