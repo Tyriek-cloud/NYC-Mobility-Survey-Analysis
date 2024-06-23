@@ -1,10 +1,13 @@
 # NYC-Mobility-Survey-Analysis
+This was an end-to-end data engineering project that was designed to derive insights from the New York City Department of Transportation's 2022 Citywide Mobility Survey. Five NYC DOT datasets were extracted to an s3 bucket, transformed and loaded into a database, and loaded into AWS Quicksight for analysis.
+
 # Step 1: Identity Access Management (IAM)
-I created a user (myself) and attached the permission policies directly.
-Permissions:
+Despite the fact that I am the only person on this project, I decided to exercise good Identity Access Management practices. I created a user (myself) and attached the permission policies directly. The list of permissions that I assigned to the user are listed below:
+
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/b1773fe0-bd1c-4c77-9e32-9ad54e49773b)
 
-No Policy Boundary
+Additionally, there is no Policy Boundary.
+
 # Step 2: Creating s3 Bucket
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/69178f6f-2d84-4ccf-a860-1feef1a50825)
 
@@ -28,4 +31,14 @@ Everything is either joined on the hh_id or the person_id
 # Step 6: Analyze and Visualize the Data with Quicksight
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/e749bb4c-43cf-4572-bc38-f8bc47df6445)
 
+Sources:
+https://data.cityofnewyork.us/Transportation/Citywide-Mobility-Survey-Vehicle-2022/qyry-gwrj
+
+https://data.cityofnewyork.us/Transportation/Citywide-Mobility-Survey-Day-2022/5njs-bq3c
+
+https://data.cityofnewyork.us/Transportation/Citywide-Mobility-Survey-Trip-2022/x5mc-2gmi
+
+https://data.cityofnewyork.us/Transportation/Citywide-Mobility-Survey-Household-2022/dt3g-khpi
+
+https://data.cityofnewyork.us/Transportation/Citywide-Mobility-Survey-Person-2022/7qdz-u9hr
 
