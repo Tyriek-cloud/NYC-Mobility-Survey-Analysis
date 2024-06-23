@@ -2,16 +2,20 @@
 This was an end-to-end data engineering project that was designed to derive insights from the New York City Department of Transportation's 2022 Citywide Mobility Survey. Five NYC DOT datasets were extracted to an s3 bucket, transformed and loaded into a database, and loaded into AWS Quicksight for analysis.
 
 # Step 1: Identity Access Management (IAM)
-Despite the fact that I am the only person on this project, I decided to exercise good Identity Access Management practices. I created a user (myself) and attached the permission policies directly. The list of permissions that I assigned to the user are listed below:
+Despite the fact that I am the only person on this project, I decided to exercise good Identity Access Management practices. I created a user (myself) and attached the permission policies directly. For the most part, the user has full access to all the assigned services (no Policy Boundary). The list of permissions that I assigned to the user are listed below:
 
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/b1773fe0-bd1c-4c77-9e32-9ad54e49773b)
 
-Additionally, there is no Policy Boundary.
-
 # Step 2: Creating s3 Bucket
+We begin by creating a s3 Bucket. A standard s3 Bucket will be fine for this use case. It is important to pick an easily recognizable name for this project, but everything else should be the default.
+
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/69178f6f-2d84-4ccf-a860-1feef1a50825)
 
+The staging folder will contain all of five of the datasets that were extracted into AWS. The warehouse folder will contain the transformed data. The data will be changed into parquet format for easier management (quite helpful because one of the datasets is quite large).
+
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/e34b5fbc-d465-4449-903e-8e535bb9c25d)
+
+Here is a peak at the datasets in the staging folder. They are all in CSV format (it is possible to extract them into another preferred file format from NYC Open Data).
 
 ![image](https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/assets/62261407/c9e781e6-4b04-4a22-8ad1-453205117c0b)
 
