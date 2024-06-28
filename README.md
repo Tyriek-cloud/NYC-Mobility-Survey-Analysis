@@ -1,6 +1,8 @@
 # NYC Mobility Survey Analysis
 This was an end-to-end data engineering project that was designed to derive insights from the New York City Department of Transportation's 2022 Citywide Mobility Survey. Five NYC DOT datasets were extracted to an s3 bucket, transformed and loaded into a database, and loaded into AWS Quicksight for analysis.
 
+Go here for the analysis report: https://github.com/Tyriek-cloud/NYC-Mobility-Survey-Analysis/blob/main/NYC%20Mobility%20Survey%20Analysis.pdf 
+
 # Step 1: Identity Access Management (IAM)
 Despite the fact that I am the only person on this project, I decided to exercise good Identity Access Management (IAM) practices. I created a user (myself) and attached the permission policies directly. For the most part, the user has full access to all the assigned services (no Policy Boundary). The list of permissions that I assigned to the user are listed below:
 
